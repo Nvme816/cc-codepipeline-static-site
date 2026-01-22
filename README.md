@@ -12,7 +12,7 @@ Deploy a static website to Amazon S3 using AWS CodePipeline, triggered automatic
 - Amazon S3 (Static Website Hosting + Deploy Target)
 
 ## Architecture
-GitHub Repo → CodePipeline → S3 Static Website Bucket
+GitHub Repo + CodePipeline + S3 Static Website Bucket
 
 ## Steps Completed
 1. Created a GitHub repository and uploaded the provided HTML (`index.html`)
